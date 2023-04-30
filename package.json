@@ -1,7 +1,7 @@
 {
-    "name": "template",
+    "name": "simple",
     "version": "1.0.0",
-    "description": "Created by Abdumalik Khojimirzaev",
+    "description": "Created by Bekmirza Yoqubov",
     "main": "./src/index.ts",
     "scripts": {
         "dev": "nodemon --config nodemon.json src/index.ts",

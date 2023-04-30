@@ -20,6 +20,7 @@ app.use(langMiddleware)
 
 app.use('/api', routes)
 
+
 app.get('/status', (req: Request, res: Response) => {
     res.json({
         status: 'OK'
